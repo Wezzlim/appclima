@@ -153,16 +153,13 @@ Os arquivos otimizados serão gerados na pasta `dist/`.
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a licença MIT. 
 
 ## 🙏 Agradecimentos
 
 - [Open-Meteo](https://open-meteo.com/) - API meteorológica gratuita
-- [Lucide](https://lucide.dev/) - Ícones modernos
-- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS
-- [React](https://react.dev/) - Biblioteca de UI
 
 ---
 
-Desenvolvido com ❤️ usando React + TypeScript
+Desenvolvido por Wesley Lima
 
